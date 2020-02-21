@@ -4,7 +4,7 @@
 <a href="#"><img src="https://img.shields.io/badge/npm-6.13.4-brightgreen.svg?style=flat-square" alt="npm version">
 </a>
 <a href="#"><img src="https://img.shields.io/badge/react_native-0.61-green.svg?style=flat-square" alt="react version"></a>
-<a href="#"><img src="https://img.shields.io/badge/redux?style=flat-square" alt="redux version"></a>
+<a href="#"><img src="https://img.shields.io/badge/redux-4.0.5-blue?style=flat-square" alt="redux version"></a>
 <a href="https://github.com/arfifa/TodosApp/blob/master/LICENSE"></a>
 </p>
 
