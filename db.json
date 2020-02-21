@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Anwar Hanif Yosha",
+      "no_telp": "081234242342",
+      "email": "anwar@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Ayu Wulandari",
+      "no_telp": "08126899989",
+      "email": "Ayu@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Yeti Fajriati",
+      "no_telp": "08152343242",
+      "email": "Yeti@gmail.com"
+    },
+    {
+      "id": 1582244583496,
+      "name": "Dimas",
+      "no_telp": "0898342423897",
+      "email": "dimas@gmail.com"
+    },
+    {
+      "id": 1582244700886,
+      "name": "Vildan",
+      "no_telp": "0829432423988",
+      "email": "vildan@gmail.com"
+    }
+  ]
+}
